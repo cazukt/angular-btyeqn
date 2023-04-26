@@ -108,10 +108,10 @@
 
 // テンプレート文字列 (Template Literals)
 let template1 = `This is Template strings.`;
-let name = 'Yohei Isokawaaaa';
+let name1 = 'Yohei Isokawaaaa';
 let template2 = `
   Hello, TypeScript tutorial.
-  ${name}
+  ${name1}
   Thank you. 
 `;
 console.log(template2);
